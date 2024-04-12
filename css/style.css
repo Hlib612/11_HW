@@ -1,0 +1,12 @@
+.hero-title{
+    color: white;
+}
+.hero-description{
+    width: 350px;
+    height: 220px;
+    box-sizing: border-box;
+    padding: 15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border: 2px dashed red;
+    background-color:green;
+}
